@@ -35,7 +35,7 @@ theme:
     logo: material/notebook-outline
     repo: fontawesome/brands/github
     edit: material/pencil
-  favicon: images/icon.jpg
+  favicon: https://zjuacee.blob.core.windows.net/zju-acee/icon.jpg
   custom_dir: overrides
   features:
   - content.code.annotate
